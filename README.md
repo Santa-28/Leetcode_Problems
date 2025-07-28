@@ -10,6 +10,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Santa-28/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/Santa-28/Leetcode_Problems/tree/master/0055-jump-game) |
+| [0217-contains-duplicate](https://github.com/Santa-28/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -22,4 +23,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Santa-28/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Santa-28/Leetcode_Problems/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Santa-28/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
